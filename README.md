@@ -1,2 +1,2 @@
 # eew1
-test repo
+test-repo
